@@ -1,5 +1,8 @@
 <h1>Activity 1: Web File Management</h1>
-<p>This exercise establishes proper folder architecture, local directory traversal, and hyperlink creation using clean, semantic HTML5 markup.</p>
+<p>Prerequisite: Complete the D2L instructions in <strong>Download Course Software &amp; Create an Online Account instructions before starting.</strong></p>
+<p>Follow all steps in order. File management is essential for success in this course and will be tested through hyperlink creation.</p>
+
+<p>This exercise establishes the architecture for our course, local directory traversal, and hyperlink creation using clean, semantic HTML5 markup.</p>
 
 <h2>Course Learning Outcomes:</h2>
 <ol>
@@ -8,7 +11,7 @@
 </ol>
 
 <h3>Required Folder Hierarchy</h3>
-Before submitting, confirm your local files and folders match this exact structure: <br>
+<p>Before submitting, confirm your local files and folders match this exact structure:</p>
 act1/<br>
 ├── index.htm <-- Root landing page <br>
 ├── pages/ <br>
