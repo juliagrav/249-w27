@@ -2,9 +2,8 @@
 <p>Prerequisite: Complete the D2L instructions in <strong>Download Course Software &amp; Create an Online Account instructions before starting.</strong></p>
 <p>Follow all steps in order. File management is essential for success in this course and will be tested through hyperlink creation.</p>
 
-<p>This exercise establishes the architecture for our course, local directory traversal, and hyperlink creation using clean, semantic HTML5 markup.</p>
-
 <h2>Course Learning Outcomes:</h2>
+<p>This exercise establishes the architecture for our course, local directory traversal, and hyperlink creation using semantic HTML5 markup.</p>
 <ol>
 <li value="2">Apply basic design principles to create an effective website utilizing an appropriate file management structure and page layouts, and;</li>
 <li value="3">Create and edit internal, relative, and absolute hyperlinks.</li>
