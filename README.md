@@ -7,8 +7,6 @@ Course Learning Outcomes:
 
 Required Folder Hierarchy
 Before submitting, confirm your local project matches this exact structure: 
-
-This reference document 
 ├── index.html <-- Root landing page 
 ├── pages/ 
 │ └── about.html <-- Secondary page with parent relative navigation 
@@ -18,6 +16,3 @@ This reference document
 |  └── sample-guide.pdf <-- Test download document
 
 INSTRUCTIONS
-## Required Hyperlink Types
-
-Your completed pages must demonstrate four distinct linking patterns:
