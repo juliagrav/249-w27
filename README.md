@@ -28,5 +28,3 @@ act1/<br>
 │ └── plhdr.png <-- Test image asset <br>
 | └── docs/ <br>
 |  └── sample-guide.pdf <-- Test download document<br><br>
-
-<h2>INSTRUCTIONS</h2>
