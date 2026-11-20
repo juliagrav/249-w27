@@ -23,7 +23,7 @@
 act1/<br>
 ├── index.htm <-- Root landing page <br>
 ├── pages/ <br>
-|  └── syllabus.pdf <-- Test download document<br><br>
-│ └── about.htm <-- Secondary page with parent relative navigation <br>
+|  └── syllabus.pdf <-- asset document<br>
+│  └── about.htm <-- Secondary page with parent relative navigation <br>
 ├── images/ <br>
 │ └── plhdr.png <-- Test image asset <br>
