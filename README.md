@@ -13,7 +13,7 @@
 <p>This activity has <strong>two parts</strong>:</p>
 <ol>
 <li><strong>Set up the course folder structure</strong></li>
-<li><strong>Create an HTML page with hyperlinks</strong></li>
+<li><strong>Create an HTML page with multiple different types of hyperlinks in HTML 5</strong></li>
 </ol>
 
 <h3>Find detailed instructions on how to complete both parts in D2L > Module 1 > week 1</h3>
