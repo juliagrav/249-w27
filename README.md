@@ -21,9 +21,9 @@
 <h3>Required Folder Hierarchy</h3>
 <p>Before submitting, confirm your local files and folders match this exact structure:</p>
 act1/<br>
-├── index.htm <-- Root landing page <br>
-├── pages/ <br>
-|  └── syllabus.pdf <-- asset document<br>
-│  └── about.htm <-- Secondary page with parent relative navigation <br>
-├── images/ <br>
-│ └── plhdr.png <-- Test image asset <br>
+ ├── index.htm <-- root landing page <br>
+ ├── pages/ <br>
+ |  └── syllabus.pdf <-- PDF asset<br>
+ │  └── about.htm <-- about page  <br>
+ ├── images/ <br>
+ │ └── plhdr.png <-- image asset <br>
